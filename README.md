@@ -12,6 +12,24 @@
 - ⚡ Fun fact: When I'm not immersed in the world of bits and bytes, you can find me exploring nature, capturing moments through photography, or getting lost in a good book!
 
 
+---
+
+👩‍💻 **Hi, I'm Mrunmayi!**  
+Bridging the gap between *if* and *else* since the day I learned to code.
+
+🚀 B.Tech IT @ VJTI | Android & Web Dev Enthusiast  
+Currently building cool stuff with Java, Python, HTML, and a cup of coffee ☕.
+
+🛠️ I break things just to fix them better.  
+Sometimes I write code that works. Sometimes I stare at semicolons until they behave.
+
+🌐 Love turning caffeine into full-stack magic — from buttons that actually work to apps that don't crash (usually).  
+
+📸 When I'm not coding, I'm busy chasing sunsets, shooting photos, and pretending to be a book critic.
+
+📬 Let's connect: **mrunmayiambhaikar@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
