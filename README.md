@@ -1,7 +1,6 @@
-<h1 align="center">Hello there👋, I'm Mrunmayi </h1>
-<h3 align="center">a curious student on a journey to explore the vast and fascinating realm of Computer Science!</h3>
-
-👩‍💻 **Hi, I'm Mrunmayi!**  
+<h1 align="center">Hello there👋 I'm Mrunmayi </h1>
+<h3 align="center">A curious student on a journey to explore the vast and fascinating realm of Computer Science!</h3>
+  
 Bridging the gap between *if* and *else* since the day I learned to code.
 
 🚀 B.Tech IT @ VJTI | Android & Web Dev Enthusiast  
