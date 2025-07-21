@@ -4,7 +4,7 @@
 Bridging the gap between *if* and *else* since the day I learned to code.
 
 🚀 B.Tech IT @ VJTI | Android & Web Dev Enthusiast  
-Currently building cool stuff with Java, Python, HTML, and a cup of coffee ☕.
+Currently building cool stuff with Java, experimenting with cloud and a cup of coffee ☕.
 
 🛠️ I break things just to fix them better.  
 Sometimes I write code that works. Sometimes I stare at semicolons until they behave.
