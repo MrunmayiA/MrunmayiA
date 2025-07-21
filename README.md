@@ -1,7 +1,7 @@
-<h1 align="center">Hello there👋, I'm Mrunmayi </h1>
+<h1 align="center">Hello there👋 I'm Mrunmayi </h1>
 <h3 align="center">a curious student on a journey to explore the vast and fascinating realm of Computer Science!</h3>
 
-- 👀 I’m interested in **Android development, Web development**
+- 👀 I’m interested in **exploring Web technologies, AI innovations, cloud infrastructure, and secure networking**
 
 - 🔭 I’m currently studying at **Veermata Jijabai Technological Institute, pursuing a B.Tech in Information Technology**, where I’m delving deep into the intricacies of computer systems and software engineering.
 
